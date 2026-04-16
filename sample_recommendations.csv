@@ -1,0 +1,61 @@
+user_id,product_id,product_name,category,price,predicted_rating
+1,8,Phone Stand,Electronics,99.99,5.0
+1,36,Knife Set,Home & Kitchen,49.99,5.0
+1,65,Product 65,Electronics,45.77,5.0
+2,2,USB-C Hub,Electronics,29.99,5.0
+2,11,Python Crash Course,Books,99.99,5.0
+2,13,Data Science Handbook,Books,99.99,5.0
+3,29,Leather Belt,Clothing,29.99,5.0
+3,109,Product 109,Sports,86.82,5.0
+3,121,Product 121,Home & Kitchen,80.29,5.0
+4,9,LED Desk Lamp,Electronics,149.99,5.0
+4,19,Zero to One,Books,39.99,5.0
+4,21,Cotton T-Shirt,Clothing,79.99,5.0
+5,7,Smart Watch,Electronics,149.99,5.0
+5,22,Slim Fit Jeans,Clothing,99.99,5.0
+5,27,Athletic Socks,Clothing,79.99,5.0
+6,22,Slim Fit Jeans,Clothing,99.99,5.0
+6,46,Water Bottle,Sports,149.99,5.0
+6,51,Product 51,Clothing,68.02,5.0
+7,9,LED Desk Lamp,Electronics,149.99,5.0
+7,16,The Pragmatic Programmer,Books,79.99,5.0
+7,39,Toaster Oven,Home & Kitchen,9.99,5.0
+8,5,Webcam 1080p,Electronics,39.99,5.0
+8,22,Slim Fit Jeans,Clothing,99.99,5.0
+8,30,Formal Blazer,Clothing,49.99,5.0
+9,7,Smart Watch,Electronics,149.99,5.0
+9,21,Cotton T-Shirt,Clothing,79.99,5.0
+9,52,Product 52,Home & Kitchen,75.91,5.0
+10,5,Webcam 1080p,Electronics,39.99,5.0
+10,12,Clean Code,Books,49.99,5.0
+10,40,Rice Cooker,Home & Kitchen,24.99,5.0
+11,31,Air Fryer,Home & Kitchen,14.99,5.0
+11,32,Coffee Maker,Home & Kitchen,49.99,5.0
+11,37,Food Storage Containers,Home & Kitchen,149.99,5.0
+12,45,Jump Rope,Sports,24.99,5.0
+12,69,Product 69,Electronics,59.38,5.0
+12,85,Product 85,Electronics,112.79,5.0
+13,3,Mechanical Keyboard,Electronics,49.99,5.0
+13,11,Python Crash Course,Books,99.99,5.0
+13,14,Atomic Habits,Books,149.99,5.0
+14,3,Mechanical Keyboard,Electronics,49.99,5.0
+14,26,Chino Pants,Clothing,79.99,5.0
+14,37,Food Storage Containers,Home & Kitchen,149.99,5.0
+15,11,Python Crash Course,Books,99.99,5.0
+15,12,Clean Code,Books,49.99,5.0
+15,39,Toaster Oven,Home & Kitchen,9.99,5.0
+16,14,Atomic Habits,Books,149.99,5.0
+16,32,Coffee Maker,Home & Kitchen,49.99,5.0
+16,40,Rice Cooker,Home & Kitchen,24.99,5.0
+17,14,Atomic Habits,Books,149.99,5.0
+17,65,Product 65,Electronics,45.77,5.0
+17,74,Product 74,Books,99.69,5.0
+18,16,The Pragmatic Programmer,Books,79.99,5.0
+18,25,Polo Shirt,Clothing,9.99,5.0
+18,35,Non-stick Pan,Home & Kitchen,9.99,5.0
+19,7,Smart Watch,Electronics,149.99,5.0
+19,25,Polo Shirt,Clothing,9.99,5.0
+19,46,Water Bottle,Sports,149.99,5.0
+20,16,The Pragmatic Programmer,Books,79.99,5.0
+20,37,Food Storage Containers,Home & Kitchen,149.99,5.0
+20,60,Product 60,Electronics,34.39,5.0
